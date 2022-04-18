@@ -1,2 +1,2 @@
-# webprojects
+# WebProjects
 Simple projects in HTML
